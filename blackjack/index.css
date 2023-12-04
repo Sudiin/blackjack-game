@@ -1,0 +1,35 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-image: url(table1.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin: 250px;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: gold; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 10px;
+}
+
+button:hover{
+    color: greenyellow;
+    border-color: rgb(144, 219, 32);
+}
+
+#message-el {
+    font-style: italic;
+
+}
